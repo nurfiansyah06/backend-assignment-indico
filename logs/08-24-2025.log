@@ -1,0 +1,17 @@
+2025/08/24 22:01:28 [INFO] Successfully connected to database
+2025/08/24 22:03:36 [INFO] response: &{Name:halobwang ProductName:Super Gadget Quantity:1}
+2025/08/24 22:06:34 [INFO] Successfully connected to database
+2025/08/24 22:06:48 [ERROR] EOF
+2025/08/24 22:11:21 [INFO] Successfully connected to database
+2025/08/24 22:12:01 [INFO] Successfully connected to database
+2025/08/24 22:42:32 [INFO] Successfully connected to database
+2025/08/24 22:43:14 [INFO] Successfully connected to database
+2025/08/24 22:47:09 [INFO] Successfully connected to database
+2025/08/24 22:54:33 [INFO] Successfully connected to database
+2025/08/24 22:55:18 [ERROR] sql: Scan error on column index 4, name "progress": converting driver.Value type []uint8 ("0.00") to a int: invalid syntax
+2025/08/24 22:55:57 [ERROR] sql: Scan error on column index 4, name "progress": converting driver.Value type []uint8 ("0.00") to a int: invalid syntax
+2025/08/24 22:58:07 [INFO] Successfully connected to database
+2025/08/24 23:02:25 [INFO] Successfully connected to database
+2025/08/24 23:05:37 [INFO] Successfully connected to database
+2025/08/24 23:07:25 [INFO] Successfully connected to database
+2025/08/24 23:08:35 [INFO] Successfully connected to database

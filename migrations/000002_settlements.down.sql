@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS settlements;
+DROP TABLE IF EXISTS jobs;
+DROP TABLE IF EXISTS transactions;

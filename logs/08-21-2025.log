@@ -1,0 +1,29 @@
+2025/08/21 21:12:01 [ERROR] pq: password authentication failed for user "postgres"
+2025/08/21 21:12:17 [ERROR] pq: database "backendttest" does not exist
+2025/08/21 21:12:24 [INFO] Successfully connected to database
+2025/08/21 22:41:04 [INFO] Successfully connected to database
+2025/08/21 22:44:20 [ERROR] EOF
+2025/08/21 22:44:29 [ERROR] EOF
+2025/08/21 22:44:32 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:44:32 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:44:32 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:44:40 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:44:40 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:44:40 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:45:13 [INFO] Successfully connected to database
+2025/08/21 22:45:17 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:45:17 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:45:17 [ERROR] pq: syntax error at or near ","
+2025/08/21 22:46:29 [INFO] Successfully connected to database
+2025/08/21 23:10:44 [INFO] Successfully connected to database
+2025/08/21 23:11:00 [ERROR] EOF
+2025/08/21 23:12:27 [INFO] Successfully connected to database
+2025/08/21 23:14:41 [INFO] Successfully connected to database
+2025/08/21 23:15:29 [INFO] Successfully connected to database
+2025/08/21 23:18:31 [INFO] Successfully connected to database
+2025/08/21 23:18:33 [INFO] response: {%!s(int=3) %!s(int=1) %!s(int=1) 2025-08-21 16:18:33.825584 +0000 +0000}
+2025/08/21 23:20:02 [INFO] Successfully connected to database
+2025/08/21 23:20:04 [INFO] response: {Id:4 ProductId:1 UserId:1 DateCreated:2025-08-21 16:20:04.347262 +0000 +0000}
+2025/08/21 23:22:43 [INFO] response: {Id:5 ProductId:1 UserId:1 DateCreated:2025-08-21 16:22:43.356518 +0000 +0000}
+2025/08/21 23:22:45 [ERROR] OUT_OF_STOCK
+2025/08/21 23:22:45 [ERROR] OUT_OF_STOCK
